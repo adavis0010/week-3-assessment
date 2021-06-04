@@ -1,0 +1,54 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+#color {
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+}
+#place {
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+}
+#ritual {
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+}
